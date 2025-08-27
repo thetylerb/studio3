@@ -1,0 +1,13 @@
+order_id,customer_id,event,event_date,seat_section,seat_row,price,purchase_channel,fan_tier,promo_code,refunded,created_at
+1,101,Canes vs. Avs,2025-09-15,Lower,C,185.0,web,gold,CANIAC20,False,2025-08-10 14:33:12
+2,102,Canes vs. Avs,2025-09-15,Upper,J,75.0,app,silver,,False,2025-08-11 09:01:55
+3,103,Canes vs. Panthers,2025-10-02,Club,A,220.0,web,platinum,OPENINGNIGHT,False,2025-08-12 10:11:21
+4,101,Canes vs. Panthers,2025-10-02,Upper,K,80.0,box_office,gold,,False,2025-08-12 10:20:05
+5,104,Canes vs. Rangers,2025-11-08,Lower,F,195.0,app,silver,NYR10,False,2025-08-13 12:45:33
+6,105,Canes vs. Rangers,2025-11-08,Upper,H,70.0,web,bronze,,True,2025-08-14 08:15:49
+7,106,Canes vs. Devils,2025-12-01,Club,B,210.0,web,platinum,,False,2025-08-14 16:20:17
+8,101,Canes vs. Devils,2025-12-01,Lower,D,180.0,app,gold,HOLIDAY15,False,2025-08-15 11:32:00
+9,107,Canes vs. Penguins,2026-01-12,Upper,M,65.0,web,bronze,,False,2025-08-16 15:42:19
+10,108,Canes vs. Penguins,2026-01-12,Lower,E,175.0,box_office,silver,,True,2025-08-17 13:27:54
+11,103,Canes vs. Avs,2025-09-15,Club,A,225.0,app,platinum,CANIAC20,False,2025-08-18 17:39:02
+12,109,Canes vs. Panthers,2025-10-02,Upper,N,68.0,web,bronze,,False,2025-08-18 20:05:45
